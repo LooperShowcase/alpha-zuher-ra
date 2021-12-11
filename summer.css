@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(179, 152, 0);
+}
+table {
+  border: 2px solid rgb(3, 109, 170);
+}
+td {
+  border: 2px solid rgb(3, 109, 170);
+}
+th {
+  border: 2px solid rgb(3, 109, 170);
+}
+tr {
+  border: 2px solid rgb(3, 109, 170);
+}
+body {
+  color: rgb(0, 0, 0);
+}
